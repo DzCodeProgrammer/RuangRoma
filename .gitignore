@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+env/
+*.egg-info/
+
+# Screenshot & output hasil testing
+cap_*.png
+portal_screenshot_*.png
+*.png
+!demo.png
+!screenshot-demo.png
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# RuangRona local environment and captures
+.venv/
+captures/
+
+# Personal studio presets
+presets.json
